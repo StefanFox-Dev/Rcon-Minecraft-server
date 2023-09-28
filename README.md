@@ -3,4 +3,4 @@
 
 # Использование
 Должен быть установлен **php8**.
-Команда: `php startR.php givemoney steve 200`
+Команда: `php startR.php command`
